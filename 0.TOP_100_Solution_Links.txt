@@ -1,0 +1,55 @@
+# Private LeaderBoard Based Ranks :
+
+1. Rank 8  - Team (Geet Desai Bilal Hungund) : https://www.kaggle.com/iamhungundji/trees-and-neural-network-auc-0-6913
+2. Rank 12 - chinmayjoshi                    : 1.Position_18_ChinmayJoshi_Janata_Hack_HR_analyticsipynb.ipynb
+3. Rank 15 - Team (Ecstasy)                  : https://github.com/AnilBetta/AV-JanataHack-HR-Analytics
+4. Rank 20 - mithi.singh                     : 2.Position_20_Mithi.Singh_Janata_Hack_HR_analyticsipynb.ipynb
+5. Rank 26 - ramzz25 			             : https://github.com/Ramzz25/Hackathon-Solutions/tree/master/Janata_HR_analytics
+6. Rank 29 - sho.upadhyaya@gmail.com         : 3.Position_29_sho.upadhyaya@gmail.com_Janata_Hack_HR_analyticsipynb.ipynb
+7. Rank 32 - bansalvishakha                  : 4.Position_32_bansalvishakha_Janata_Hack_HR_analyticsipynb.ipynb
+8. Rank 37 - theguy97                        : https://github.com/Abhinav-97/JanataHack-Hr-analytics
+9. Rank 39 - muralitharan2789                : https://github.com/Muralitharan2789/Hacathons/tree/master/HR_Analytics
+10.Rank 41 - jeet51                          : https://www.kaggle.com/hungryfool/janatahack-hr-analytics-solution
+11.Rank 43 - river                           : 5.Position_43_river_Janata_Hack_HR_analyticsipynb.ipynb
+12.Rank 49 - vishwanathk                     : https://github.com/kulkarni-vishwanath/HR_Analytics_AnalyticsVidhya
+12.Rank 49 - vishwanathk                     : 6.Position_49_vishwanathk_Janata_Hack_HR_analyticsipynb.ipynb
+-------------------------------------------------------------------------------------------------------------------------------
+13.Rank 51 - arnab503                        : 7.Position_51_arnab503_Janata_Hack_HR_analyticsipynb.ipynb
+14.Rank 57 - rsesha                          : https://colab.research.google.com/drive/1Must8QIUNO3Vcv6CeSs81BRFoPw_85oG?usp=sharing
+15.Rank 61 - karan95			             : LINK didn't Work : https://datahack-prod.s3.amazonaws.com/submissions/janatahack-hr-analytics/842_568242_cf_Features_z49enhS.ipynb
+16.Rank 66 - gokul280                        : 8.Position_66_gokul280_Janata_Hack_HR_analyticsipynb.ipynb
+17.Rank 67 - hithesh                         : LINK didn't Work : https://datahack-prod.s3.amazonaws.com/submissions/janatahack-hr-analytics/842_588329_cf_hranalytics_sIM1QGs.ipynb
+18.Rank 71 - Team (Danny bad boys)           : https://www.kaggle.com/aswathrao/cat-boost
+19.Rank 75 - dhookia                         : 9.Position_75_dhookia_Janata_Hack_HR_analyticsipynb.ipynb
+20.Rank 77 - manbu                           : 10.Position_77_manbu_Janata_Hack_HR_analyticsipynb.ipynb
+21.Rank 79 - akshay9799			             : 11.Position_79_akshay9799_Janata_Hack_HR_analyticsipynb.ipynb
+22.Rank 83 - aaron25                         : LINK didn't Work : https://datahack-prod.s3.amazonaws.com/submissions/janatahack-hr-analytics/842_728669_cf_HR__Janata.ipynb
+23.Rank 88 - pri.jha84@gmail.com             : 12.Position_88_pri.jha84@gmail.com_Janata_Hack_HR_analyticsipynb.ipynb
+24.Rank 92 - VivekGutti                      : 13.Position_92_VivekGutti_Janata_Hack_HR_analyticsipynb.ipynb
+25.Rank 94 - Muhyifathi                      : 14.Position_94_Muhyifathi_Janata_Hack_HR_analyticsipynb.ipynb
+26.Rank 96 - Krishang@330                    : 15.Position_96_Krishang@330_Janata_Hack_HR_analyticsipynb.py
+27.Rank 97 - Umairnsr87                      : 16.Position_97_Umairnsr87_Janata_Hack_HR_analyticsipynb.ipynb
+28.Rank 99 - blomadam                        : LINK didn't Work : https://datahack-prod.s3.amazonaws.com/submissions/janatahack-hr-analytics/842_69088_cf_hrhack_av_may_2020-3-pipeline_HWr2UKi.json
+------------------------------------------------------------------------------------------------------------------------------
+29.Rank 106 - LMNTrix                        : LINK didn't Work : https://datahack-prod.s3.amazonaws.com/submissions/janatahack-hr-analytics/842_883840_cf_Data_Exploration_9VAGdbr.ipynb
+30.Rank 118 - Thinkers                       : 17.Position_118_Thinkers_Janata_Hack_HR_analyticsipynb.ipynb
+31.Rank 122	- vhka                           : 18.Position_122_vhka_Janata_Hack_HR_analyticsipynb.ipynb
+32.Rank 134	- geetanjaligg                   : 19.Position_134_geetanjaligg_Janata_Hack_HR_analyticsipynb.ipynb
+33.Rank 138	- parames                        : 20.Position_138_parames_Janata_Hack_HR_analyticsipynb.ipynb
+34.Rank 139	- ashish282                      : 21.Position_139_ashish282_Janata_Hack_HR_analyticsipynb.py
+35.Rank 144	- pattabhiramansrinivasan
+              @gmail.com                     : https://github.com/Pattsbot/PublicSpace/blob/master/JHHRA.ipynb
+36.Rank 145	- shivam467                      : 22.Position_145_shivam467_Janata_Hack_HR_analyticsipynb.ipynb
+37.Rank 146	- terinjiko                      : 23.Position_146_terinjiko_Janata_Hack_HR_analyticsipynb.ipynb
+38.Rank 147	- kaustubh118                    : 24.Position_147_kaustubh118_Janata_Hack_HR_analyticsipynb.ipynb
+39.Rank 148	- ankittyagi1987                 : 25.Position_148_ankittyagi1987_Janata_Hack_HR_analyticsipynb.ipynb
+40.Rank 151	- kitta749055                    : 26.Position_151_kitta749055_Janata_Hack_HR_analyticsipynb.ipynb
+41.Rank 152	- vallapuneni                    : https://github.com/kondalu7679/HR-Analytics/blob/master/Analytics_Hr.ipynb
+42.Rank 154	- rajagopalan11                  : 27.Position_154_rajagopalan11_Janata_Hack_HR_analyticsipynb.ipynb
+43.Rank 157	- nikita6                        : https://github.com/khannanikita/JantaHack-HR-Analytics/
+44.Rank 158 - indrajeetpala                  : 28.Position_158_indrajeetpala_Janata_Hack_HR_analyticsipynb.ipynb
+45.Rank 160 - Vetrivel_Rajesh                : 00.Position_160_Vetrivel_Rajesh_Janata_Hack_HR_analyticsipynb.ipynb
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
